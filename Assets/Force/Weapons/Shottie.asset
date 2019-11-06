@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1b4122dbaebef84bbd47a44297f9e4c, type: 3}
+  m_Name: Shottie
+  m_EditorClassIdentifier: 
+  WeaponID: 2
+  Power: 1600
+  shotWait: 2.5
+  Bullet: {fileID: 1778022654102690, guid: ecac42aad23e7b4408462f07eabc0c66, type: 2}
+  bulletSpread: 8
+  bulletAmount: 4
+  magSize: 4
+  defBulletAmount: 30
+  reloadTime: 5
+  zoomFOV: 0
